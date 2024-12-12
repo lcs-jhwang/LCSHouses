@@ -29,6 +29,6 @@ struct HouseDetailView: View {
  
 #Preview {
     NavigationStack {
-        HouseDetailView(houseToShow: cooper)
+        HouseDetailView(houseToShow: ross)
     }
 }
